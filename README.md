@@ -1,4 +1,4 @@
-# chatgpt-clone
+# chatgpt
 Build Yourown ChatGPT with OpenAI API &amp; Gradio
 
 ### Instructions:
